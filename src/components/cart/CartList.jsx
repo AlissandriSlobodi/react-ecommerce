@@ -51,7 +51,7 @@ class CartList extends Component {
                   </td>
                   <td className="table-block">
                     <span className="cart-product-price">
-                      ${product.price}.00
+                      {product.price}.00 грн
                     </span>
                   </td>
                   <td className="table-block">
@@ -80,7 +80,7 @@ class CartList extends Component {
                   </td>
                   <td className="table-block">
                     <span className="cart-product-price">
-                      ${product.qty * product.price}.00
+                      {product.qty * product.price}.00 грн
                     </span>
                   </td>
                   <td className="table-block">
