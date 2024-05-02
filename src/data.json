@@ -4,7 +4,7 @@
         {
             "id" : 1,
             "name": "Зелена спаржа",
-            "img": "./build/images/product1.jpg",
+            "img": "./public/images/product1.jpg",
             "price":60.00 ,
             "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur diam dui, et vehicul...",
             "qty":1
@@ -12,7 +12,7 @@
         {
             "id" : 2,
             "name": "Фіолетова спаржа",
-            "img": "./build/images/product1.jpg",
+            "img": "./public/images/product1.jpg",
             "price":200.00 ,
             "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur diam dui, et vehicul...",
             "qty":1
@@ -20,7 +20,7 @@
         {
             "id" : 3,
             "name": "Біла спаржа",
-            "img": "./build/images/product1.jpg",
+            "img": "./public/images/product1.jpg",
             "price":50.00 ,
             "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur diam dui, et vehicul...",
             "qty":1
@@ -28,7 +28,7 @@
         {
             "id" : 4,
             "name": "Велика спаржа",
-            "img": "./build/images/product1.jpg",
+            "img": "./public/images/product1.jpg",
             "price":12.00 ,
             "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur diam dui, et vehicul...",
             "qty":1
@@ -36,7 +36,7 @@
         {
             "id" : 5,
             "name": "Середня спаржа",
-            "img": "./build/images/product1.jpg",
+            "img": "./public/images/product1.jpg",
             "price":35.00 ,
             "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur diam dui, et vehicul...",
             "qty":1
@@ -44,7 +44,7 @@
         {
             "id" : 6,
             "name": "Маленька спаржа",
-            "img": "./build/images/product1.jpg",
+            "img": "./public/images/product1.jpg",
             "price":21.00 ,
             "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur diam dui, et vehicul...",
             "qty":1
@@ -52,7 +52,7 @@
          {
             "id" : 7,
             "name": "Соковита спаржа",
-            "img": "./build/images/product1.jpg",
+            "img": "./public/images/product1.jpg",
             "price":20.00 ,
             "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur diam dui, et vehicul...",
             "qty":1
@@ -60,7 +60,7 @@
         {
             "id" : 8,
             "name": "Гірка спаржа",
-            "img": "./build/images/product1.jpg",
+            "img": "./public/images/product1.jpg",
             "price":21.00 ,
             "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque efficitur diam dui, et vehicul...",
             "qty":1

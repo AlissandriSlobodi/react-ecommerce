@@ -34,7 +34,7 @@ class Navigation extends React.Component {
               </Nav>
             </Navbar.Collapse>
             <NavLink to="/" className="brand-logo">
-              <img src="./build/images/Asparagus.svg" alt="site logo" />
+              <img src="/images/Asparagus.svg" alt="site logo" />
             </NavLink>
             <NavLink to="/cart">
               <div className="cart-div">

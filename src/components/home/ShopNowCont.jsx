@@ -8,7 +8,7 @@ export default class ShopNowCont extends Component {
         <Container className="cont-pd p-5 cont-margin mb-6">
           <Row className="row ">
             <Col>
-              <img className="" src="./build/images/nutition.png" alt="rack" />
+              <img className="" src="./public/images/nutition.png" alt="rack" />
             </Col>
             <Col className="p-6">
               <h1 className="shop-now-h1">Чому варто їсти спаржу щодня?</h1>
