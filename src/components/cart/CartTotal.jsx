@@ -21,7 +21,7 @@ class CartTotal extends Component {
             <tbody>
               <tr className="table-row">
                 <th className="total-heading">Сумма до сплати:</th>
-                <td className="total-price">${cartTotalPrice}.00</td>
+                <td className="total-price">{cartTotalPrice}.00 грн</td>
               </tr>
             </tbody>
           </Table>
