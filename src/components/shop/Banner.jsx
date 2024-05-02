@@ -13,7 +13,6 @@ export default class Banner extends Component {
   }
 }
 
-// PropTypes validation
 Banner.propTypes = {
   heading: PropTypes.string.isRequired,
 };
