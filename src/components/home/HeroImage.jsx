@@ -23,7 +23,7 @@ export default class HeroImage extends Component {
           </Col>
           <Col md={2} className="d-none d-md-flex justify-content-center">
             <img
-              src="./public/images/arrow.png"
+              src="/images/arrow.png"
               alt="arrow"
               className="arrow-img"
             />
@@ -32,7 +32,7 @@ export default class HeroImage extends Component {
             <div className="d-flex justify-content-center">
               <img
                 className="hero-banner"
-                src="./public/images/asp.png"
+                src="/images/asp.png"
                 alt="banner"
               />
             </div>

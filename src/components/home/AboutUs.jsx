@@ -21,7 +21,7 @@ export default class AboutUs extends Component {
               </p>
             </Col>
             <Col>
-              <img className="img-asp" src="./public/images/aspp.png" />
+              <img className="img-asp" src="/images/aspp.png" />
             </Col>
           </Row>
         </Container>
